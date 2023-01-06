@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "3D066DAD-4C27-4814-959D-B671CE3EEA60": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "7BA6EEE9-D870-452A-B881-7709CC13B16D": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        },
+        "F1F3A8A2-39C7-46BE-A117-0849380D57C7": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "HandSignClassifier-ver0.1.mlmodel",
+            "path": "com.apple.CoreML/HandSignClassifier-ver0.1.mlmodel"
+        }
+    },
+    "rootModelIdentifier": "F1F3A8A2-39C7-46BE-A117-0849380D57C7"
+}
